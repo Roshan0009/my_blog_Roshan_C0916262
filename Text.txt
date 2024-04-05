@@ -1,0 +1,2 @@
+As aksed by question , I have one main page that is home page and two other content page that are Eduaction page and Work page.
+Thank you.
