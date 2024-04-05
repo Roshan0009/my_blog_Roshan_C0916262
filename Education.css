@@ -1,0 +1,192 @@
+/* LAB ASSIGNMENT 1*/
+body {
+    background-image: url("home_images/image12.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .header {
+    font-family: crossorigin;
+    background-color: hsla(17, 95%, 43%, 0.937);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    vertical-align: top;
+  }
+  .image {
+    display: inline-block;
+    text-align: left;
+    width: 50px;
+    margin-right: 30px;
+  }
+  .words {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    padding-top: 10px;
+  }
+  .head1 {
+    vertical-align: top;
+    font-size: 30px;
+    color: aqua;
+    font-style: italic;
+    margin-bottom: 0;
+  }
+  .paragraph1 {
+    margin-top: 10px;
+    margin-right: 50px;
+  }
+  .logo {
+    width: 100px;
+    border-radius: 100px;
+  }
+  nav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #890b1c;
+    color: #fff;
+    text-align: center;
+  }
+
+  nav ul li {
+    display: inline;
+    margin-right: 30px;
+  }
+  nav ul li a {
+    color: hsla(0, 0%, 100%, 0.758);
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+  nav ul li a:hover {
+    background-color: hsl(60, 21%, 42%);
+  }
+  .edu-header{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px ;
+    padding-top:15px;
+   padding-left:350px;
+   margin-bottom:20px;
+
+  }
+  .main-div{
+    margin-bottom: 15px;
+
+  }
+  .first-div{
+    display: inline-block;
+    width:350px;
+  }
+  .second-div{
+    padding-top:10px;
+    display:inline-block;
+    width:350px;
+    margin-top:0px;
+    vertical-align: top;
+  }
+  .third-div{
+    margin-left:20px;
+    margin-top:0px;
+    vertical-align: top;
+    display: inline-block;
+    width:500px;
+  }
+  .sdiv-image{
+    border-radius: 10px;
+    width:350px; 
+    height:200px;
+    vertical-align: top;
+    ;
+  }
+  .sdiv-para{
+    margin-top: 0px;
+    padding-left:130px ;
+  }
+.sdiv-spara{
+    width:350px;
+    text-align:left;
+}
+.tdiv-para{
+    width:350px;
+    vertical-align: top;
+    padding-left: 50pt;
+    padding-right: 50pt;
+}
+.tsdib-para{
+    width:350px;
+    vertical-align: top;
+    padding-left: 50pt;
+    padding-right: 50pt;
+
+}
+.footer{
+        
+    background-color:#890b1c ;
+      }
+      .last-para{
+        color:white;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom:10px;
+      }
+      .lambton{
+        font-weight: Bold;
+      }
+      .fdiv{
+        vertical-align: top;
+        font-size: 20px;
+        font-weight: bold;
+        
+      }
+      .image1{
+        display: inline-block;
+      }
+      .cential{
+        display: inline-block;
+      }
+      .cimage{
+        width:150px;
+        vertical-align:middle;
+      }
+      .cpara{
+        font-size: 15px;
+      }
+      .image2{
+        margin-top:15px;
+        display: inline-block;
+      }
+      .simage{
+        width:150px;
+        vertical-align:middle; 
+      }
+      .seneca{
+        display: inline-block;
+      }
+      .image3{
+        margin-top:15px;
+        display: inline-block;
+      }
+      .dimage{
+        width:150px;
+        vertical-align:middle; 
+      }
+      .dhurham{
+        display: inline-block;
+      }
+      .image4{
+        margin-top:15px;
+        display: inline-block;
+      }
+      .Nimage{
+        width:150px;
+        vertical-align:middle; 
+      }
+      .dNiagra{
+        display: inline-block;
+      }
+      .Niagra{
+        display: inline-block; 
+      }
